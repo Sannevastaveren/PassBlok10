@@ -128,3 +128,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+ImageAnalysis/Output/cnn_2.h5
+ImageAnalysis/Output/cnn_1.h5
