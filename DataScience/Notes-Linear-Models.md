@@ -4,3 +4,6 @@
 
 Decision boundry: line to seperate 2 or more features
 > make this line by minimizing the error (so basically make sure that there is the least amount of false positves/negatives)
+
+
+Weights/Coefficients: the values in the formula of your line that are constant (they decide the direction/height and stuff basically where your line is at)
