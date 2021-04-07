@@ -2,7 +2,7 @@
 Everything I need to do to pass blok 10
 # Data Science:
 notes from the all classes available still working on the last two of linear models and the Q&A
-## Listen to Tilmans lectures in 2x speed!!! 1.5x makes him talk like a normal human, 2x just more efficient
+## Listen to Tilmans lectures in 2x speed!!! 1.5x is better for attention span, 2x just more efficient
 # Image Analysis:
 fun fact: my pc while running the code does about 1 step per second if done with gpu on colab it takes 240ms per step that is almost 75 % faster (if i understand how math works)
 it did start way less accurate tho?? 50% accuracy at the start on gpu and 60% at the start on cpu
