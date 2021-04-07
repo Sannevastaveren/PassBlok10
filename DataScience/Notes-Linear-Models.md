@@ -10,4 +10,4 @@ Weights/Coefficients: the values in the formula of your line that are constant (
 
 Distance from the decision boundry can show how wrong the prediction is
 > like some value that's supposed to be of the label above 0 but is at -68 is way more wrong than a label supposed to be above 0 thats at -1
-> so you can calculate the error with this i think
+> so you can calculate the error with this i think (he does given-predicted where given is 1 or -1 (class label), and predicted is a value above or below that)
